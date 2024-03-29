@@ -11,7 +11,18 @@ pre  code {
   white-space: pre;
   font-size: .875rem;
   line-height: 2;
+  background-color: #222;
+  color: #ddd;
+  border-radius: 0;
+  padding: 1.5em;
+}
 
+code {
+  border-radius: 3px;
+  padding: 1px 4px;
+  background-color: #e5e5e5;
+  color: #c44b40;
+  font-size: 1rem;
 }
 
 pre {
